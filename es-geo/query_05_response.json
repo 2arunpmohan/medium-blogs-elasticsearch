@@ -1,0 +1,31 @@
+{
+"took": 3,
+"timed_out": false,
+"_shards": {
+"total": 1,
+"successful": 1,
+"skipped": 0,
+"failed": 0
+},
+"hits": {
+"total": 1,
+"max_score": 1,
+"hits": [
+{
+"_index": "india_states_data",
+"_type": "doc",
+"_id": "1005",
+"_score": 1,
+"_routing": "1",
+"_source": {
+"name": "Hyderabad",
+"state": "Telangana",
+"location": {
+"lat": "17.375278",
+"lon": "78.474444"
+}
+}
+}
+]
+}
+}

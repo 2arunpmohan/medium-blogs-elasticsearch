@@ -1,0 +1,46 @@
+{
+  "took": 3,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 2,
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1010",
+        "_score": 1,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            0
+          ],
+          "name.keyword": [
+            "Pune"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1019",
+        "_score": 1,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            12.592428735570621
+          ],
+          "name.keyword": [
+            "Pimpri-Chinchwad"
+          ]
+        }
+      }
+    ]
+  }
+}

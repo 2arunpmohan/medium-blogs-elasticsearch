@@ -1,0 +1,27 @@
+curl -X PUT "localhost:9200/test-index/_doc/1?refresh" -H 'Content-Type: application/json' -d'{
+  "technology": "elasticsearch",
+  "trainer": "Vineeth Mohan",
+  "location": "India",
+  "category": "bigdata",
+  "joinField": {
+    "name": "trainer"
+  }
+}'
+curl -X PUT "localhost:9200/test-index/_doc/2?refresh" -H 'Content-Type: application/json' -d'{
+  "technology": "hadoop",
+  "trainer": "Dinoop",
+  "location": "Singapore",
+  "category": "bigdata",
+  "joinField": {
+    "name": "trainer"
+  }
+}'
+curl -X PUT "localhost:9200/test-index/_doc/3?refresh" -H 'Content-Type: application/json' -d'{
+  "technology": "react",
+  "trainer": "liju",
+  "location": "China",
+  "category": "frontend",
+  "joinField": {
+    "name": "trainer"
+  }
+}'

@@ -1,0 +1,451 @@
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 29,
+    "max_score": 6,
+    "hits": [
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1010",
+        "_score": 6,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            0
+          ],
+          "name.keyword": [
+            "Pune"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1019",
+        "_score": 6,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            12.592428735570621
+          ],
+          "name.keyword": [
+            "Pimpri-Chinchwad"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1029",
+        "_score": 5.999913,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            110.01637157793436
+          ],
+          "name.keyword": [
+            "Kalyan-Dombivali"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1002",
+        "_score": 5.9996505,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            120.09141761735215
+          ],
+          "name.keyword": [
+            "Mumbai"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1016",
+        "_score": 5.9996443,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            120.26218082335427
+          ],
+          "name.keyword": [
+            "Thane"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1030",
+        "_score": 5.998004,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            148.0017035851354
+          ],
+          "name.keyword": [
+            "Vasai-Virar"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1025",
+        "_score": 5.996396,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            164.50698881856184
+          ],
+          "name.keyword": [
+            "Nashik"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1009",
+        "_score": 5.9691896,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            288.86509578949045
+          ],
+          "name.keyword": [
+            "Surat"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1021",
+        "_score": 5.9095616,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            424.55469642745885
+          ],
+          "name.keyword": [
+            "Vadodara"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1005",
+        "_score": 5.860489,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            504.11192143919925
+          ],
+          "name.keyword": [
+            "Hyderabad"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1015",
+        "_score": 5.8577104,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            508.1743831641321
+          ],
+          "name.keyword": [
+            "Indore"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1006",
+        "_score": 5.8516088,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            516.9645265532725
+          ],
+          "name.keyword": [
+            "Ahmedabad"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1017",
+        "_score": 5.752222,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            641.5748672918623
+          ],
+          "name.keyword": [
+            "Bhopal"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1004",
+        "_score": 5.6634874,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            734.094225422084
+          ],
+          "name.keyword": [
+            "Bangalore"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1028",
+        "_score": 5.5706263,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            819.8229174551582
+          ],
+          "name.keyword": [
+            "Rajkot"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1007",
+        "_score": 5.455792,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            915.4662243884516
+          ],
+          "name.keyword": [
+            "Chennai"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1018",
+        "_score": 5.3437033,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1001.1161895835968
+          ],
+          "name.keyword": [
+            "Visakhapatnam"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1014",
+        "_score": 5.31317,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1023.4272808198285
+          ],
+          "name.keyword": [
+            "Nagpur"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1024",
+        "_score": 5.274175,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1051.3822188738832
+          ],
+          "name.keyword": [
+            "Agra"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1020",
+        "_score": 5.267423,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1056.1651932789325
+          ],
+          "name.keyword": [
+            "Patna"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1013",
+        "_score": 5.197434,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1104.8292368457371
+          ],
+          "name.keyword": [
+            "Kanpur"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1026",
+        "_score": 5.1222086,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1155.4820803136552
+          ],
+          "name.keyword": [
+            "Faridabad"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1012",
+        "_score": 5.0951023,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1173.3657677760702
+          ],
+          "name.keyword": [
+            "Lucknow"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1003",
+        "_score": 5.089345,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1177.1411220821585
+          ],
+          "name.keyword": [
+            "Delhi"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1022",
+        "_score": 5.079308,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1183.704040760167
+          ],
+          "name.keyword": [
+            "Ghaziabad"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1027",
+        "_score": 5.0146284,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1225.4538948510333
+          ],
+          "name.keyword": [
+            "Meerut"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1023",
+        "_score": 4.7482104,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1389.5364689738803
+          ],
+          "name.keyword": [
+            "Ludhiana"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1011",
+        "_score": 4.5590496,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1500.6228335663225
+          ],
+          "name.keyword": [
+            "Jaipur"
+          ]
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1008",
+        "_score": 4.4305754,
+        "_routing": "1",
+        "fields": {
+          "distance": [
+            1574.418598373857
+          ],
+          "name.keyword": [
+            "Kolkata"
+          ]
+        }
+      }
+    ]
+  }
+}

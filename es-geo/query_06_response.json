@@ -1,0 +1,145 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 8,
+    "max_score": 1.2611312,
+    "hits": [
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1002",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Mumbai",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "18.975",
+            "lon": "72.825833"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1010",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Pune",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "18.533333",
+            "lon": "73.866667"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1019",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Pimpri-Chinchwad",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "18.6279288",
+            "lon": "73.8009829"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1014",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Nagpur",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "23.3",
+            "lon": "82.3"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1016",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Thane",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "19.2",
+            "lon": "72.966667"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1029",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Kalyan-Dombivali",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "19.235433",
+            "lon": "73.129889"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1025",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Nashik",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "20.0110224",
+            "lon": "73.7903373"
+          }
+        }
+      },
+      {
+        "_index": "india_states_data",
+        "_type": "doc",
+        "_id": "1030",
+        "_score": 1.2611312,
+        "_routing": "1",
+        "_source": {
+          "name": "Vasai-Virar",
+          "state": "Maharashtra",
+          "location": {
+            "lat": "19.4258788",
+            "lon": "72.8224901"
+          }
+        }
+      }
+    ]
+  },
+  "aggregations": {
+    "centroid": {
+      "location": {
+        "lat": 19.663574402220547,
+        "lon": 74.43785816431046
+      },
+      "count": 8
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "testindexterms" : {
+    "mappings" : {
+      "_meta" : {
+        "created_by" : "ml-file-data-visualizer"
+      },
+      "properties" : {
+        "age" : {
+          "type" : "long"
+        },
+        "email" : {
+          "type" : "keyword"
+        },
+        "first_name" : {
+          "type" : "keyword"
+        },
+        "gender" : {
+          "type" : "keyword"
+        },
+        "id" : {
+          "type" : "long"
+        },
+        "ip_address" : {
+          "type" : "ip"
+        },
+        "last_name" : {
+          "type" : "keyword"
+        },
+        "socialSecurity" : {
+          "type" : "keyword"
+        }
+      }
+    }
+  }
+}
+
