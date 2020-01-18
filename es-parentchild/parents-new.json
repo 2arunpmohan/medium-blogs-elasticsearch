@@ -1,0 +1,6 @@
+{"index":{"_id":"1"}}
+{"technology":"elasticsearch","trainer":"Vineeth Mohan","location":"India","category":"bigdata","joinField":{"name":"trainer"}}
+{"index":{"_id":"2"}}
+{"technology":"hadoop","trainer":"Dinoop","location":"Singapore","category":"bigdata","joinField":{"name":"trainer"}}
+{"index":{"_id":"3"}}
+{"technology":"react","trainer":"liju","location":"China","category":"frontend","joinField":{"name":"trainer"}}

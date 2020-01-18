@@ -1,0 +1,13 @@
+{"index":{"_id":"child1"}}
+{"index":{"_id":"child1"}}
+{"name":"Arun Mohan","age":32,"joinField":{"name":"student","parent":"1"}}
+{"index":{"_id":"child2"}}
+{"name":"Hashim","age":23,"joinField":{"name":"student","parent":"1"}}
+{"index":{"_id":"child3"}}
+{"name":"Vyshak","age":23,"joinField":{"name":"student","parent":"2"}}
+{"index":{"_id":"child4"}}
+{"name":"Bless","age":24,"joinField":{"name":"student","parent":"2"}}
+{"index":{"_id":"child5"}}
+{"name":"Arun Nair","age":25,"joinField":{"name":"student","parent":"3"}}
+{"index":{"_id":"child6"}}
+{"name":"Shikhil","age":26,"joinField":{"name":"student","parent":"3"}}
